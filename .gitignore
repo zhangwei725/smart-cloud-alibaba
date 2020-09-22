@@ -1,0 +1,3 @@
+# Project exclude paths
+/smart-auth-center/smart-auth/target/
+/smart-common/common-spring-boot-starter/target/
